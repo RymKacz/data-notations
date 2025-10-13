@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Levi's",
+        "founded": 1853,
+        "headquarters": "San Francisco, California, USA",
+        "employees": 15000,
+        "products": [
+            "Denim Jeans",
+            "Casual Wear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Gucci",
+        "founded": 1921,
+        "headquarters": "Florence, Italy",
+        "employees": 17000,
+        "products": [
+            "Luxury Fashion",
+            "Footwear",
+            "Accessories"
+        ]
     }
 ]

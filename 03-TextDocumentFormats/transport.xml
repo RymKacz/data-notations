@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meansofTransport>
+    <car>
+        <brand>
+            Mitsubishi
+        </brand>
+        <model>
+            Colt
+        </model>
+        <horsePower unit="HP">
+            95
+        </horsePower>
+        <engineCapacity unit="cm3">
+            1590
+        </engineCapacity>
+    </car>
+    <bus>
+        <brand>
+            Mercedes-Benz
+        </brand>
+        <model>
+            Citaro
+        </model>
+        <passengerCapacity unit="persons">
+            100
+        </passengerCapacity>
+        <engineCapacity unit="cm3">
+            11946
+        </engineCapacity>
+    </bus>
+    <bike>
+        <brand>
+            Trek
+        </brand>
+        <model>
+            Domane AL 2
+        </model>
+        <type>
+            Road
+        </type>
+        <frameSize unit="inch">
+            54
+        </frameSize>
+        <wheelSize unit="inch">
+            28
+        </wheelSize>
+    </bike>
+</meansofTransport>

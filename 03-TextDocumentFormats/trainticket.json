@@ -1,0 +1,13 @@
+[
+    {
+    "PassagerName": "John Doe",
+    "TrainNumber": "A123",
+    "DepartureStation": "New York",
+    "ArrivalStation": "Washington D.C.",
+    "DepartureTime": "2024-05-01T09:00:00",
+    "ArrivalTime": "2024-05-01T12:00:00",
+    "SeatNumber": 12,
+    "Class": "First Class",
+    "TicketPrice": 99.99
+}
+]
