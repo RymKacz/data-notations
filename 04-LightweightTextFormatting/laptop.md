@@ -1,0 +1,153 @@
+# Laptop
+A laptop computer or notebook computer, also known as a laptop or notebook, is a small, portable personal computer (PC). Laptops typically have a clamshell form factor with a flat-panel screen on the inside of the upper lid and an alphanumeric keyboard and pointing device on the inside of the lower lid. Most of the computer's internal hardware is in the lower part, under the keyboard, although many modern laptops have a built-in webcam at the top of the screen, and some even feature a touchscreen display. In most cases, unlike tablet computers which run on mobile operating systems, laptops tend to run on desktop operating systems, which were originally developed for desktop computers.
+
+Laptops are used in a variety of settings, such as at work (especially on business trips), in education, for playing games, content creating, web browsing, for personal multimedia, and for general home computer use. They can run on both AC power and built-in rechargable batteries, and can be folded shut for convenient storage and transportation, making them suitable for mobile use. Laptops combine essentially the same input/output components and capabilities of a desktop computer into a single unit, including a display screen (usually 11–17 in or 280–430 mm in diagonal size), small speakers, a keyboard, and a pointing device (usually touchpads). Hardware specifications may vary significantly between different types, models, and price points.
+
+Design elements, form factors, and construction can also vary significantly between models depending on the intended use. Examples of specialized models of laptops include 2-in-1 laptops, with keyboards that either be detached or pivoted out of view from the display (often marketed having a "laptop mode"), and rugged laptops, for use in construction or military applications. Portable computers, which later developed into modern laptops, were originally considered to be a small niche market, mostly for specialized field applications, such as in the military, for accountants, or travelling sales representatives. As portable computers evolved into modern laptops, they became widely used for a variety of purposes.
+
+## History
+    Main article: History of laptops
+    See also: Portable computer § Early history
+
+The history of the laptop follows closely behind the development of the personal computer itself. A "personal, portable information manipulator" was imagined by Alan Kay at Xerox PARC in 1968, and described in his 1972 paper as the "Dynabook". The IBM Special Computer APL Machine Portable (SCAMP) was demonstrated in 1973. This prototype was based on the IBM PALM processor. The IBM 5100, the first commercially available portable computer, appeared in September 1975, and was based on the SCAMP prototype.
+
+As 8-bit CPU machines became widely accepted, the number of portables increased rapidly. The first "laptop-sized notebook computer" was the Epson HX-20, invented (patented) by Suwa Seikosha's Yukio Yokozawa in July 1980, introduced at the COMDEX computer show in Las Vegas by Japanese company Seiko Epson in 1981, and released in July 1982. It had an LCD screen, a rechargeable battery, and a calculator-size printer, in a 1.6 kg (3.5 lb) chassis, the size of an A4 notebook. It was described as a "laptop" and "notebook" computer in its patent.
+
+From 1983 onward, several new input techniques were developed and included in laptops, including the touch pad (Gavilan SC, 1983), the pointing stick (IBM ThinkPad 700, 1992), and handwriting recognition (Linus Write-Top, 1987). Some CPUs, such as the 1990 Intel i386SL, were designed to use minimum power to increase the battery life of portable computers and were supported by dynamic power management features such as Intel SpeedStep and AMD PowerNow! in some designs.
+
+Some laptops in the 1980s using red plasma displays could only be used when connected to AC power, and had a built in power supply.
+
+The development of memory cards was driven in the 1980s by the need for a floppy-disk-drive alternative, having lower power consumption, less weight, and reduced volume in laptops. The Personal Computer Memory Card International Association (PCMCIA) was an industry association created in 1989 to promote a standard for memory cards in PCs. The specification for PCMCIA type I cards, later renamed PC Cards, was first released in 1990.
+
+Displays reached 640x480 (VGA) resolution by 1988 (Compaq SLT/286), and color screens started becoming a common upgrade in 1991, with increases in resolution and screen size occurring frequently until the introduction of 17" screen laptops in 2003. Hard drives started to be used in portables, encouraged by the introduction of 3.5" drives in the late 1980s, and became common in laptops starting with the introduction of 2.5" and smaller drives around 1990; capacities have typically lagged behind those of physically larger desktop drives.
+
+By 1992 the laptop market was growing about three times faster than that of desktops. By 1994 laptops were also more profitable than desktops, and accounted for one sixth of the personal computer market, up from one twentieth in 1990. They was so important that Dell risked, experts said, "second-rate status" in the industry for not having a strong laptop product line.
+
+Optical disc drives became common in full-size laptops around 1997: initially, CD-ROM drives, supplanted by CD-R, then DVD, then Blu-ray drives with writing capability. Starting around 2011, the trend shifted against internal optical drives, and as of 2022, they have largely disappeared, though are still readily available as external peripherals.
+
+Resolutions of laptop webcams are 720p (HD), or 480p in lower-end laptops. The earliest-known laptops with 1080p (Full HD) webcams, like the Samsung 700G7C, were released in the early 2010s.
+
+## Etymology
+The word laptop, modeled after the term desktop (as in desktop computer), refers to the fact that the computer can be practically placed on the user's lap; while the word notebook refers to most laptops being approximately similar in size to a paper notebook. As of 2024, in American English, the terms laptop and notebook are used interchangeably; in other dialects of English, one or the other may be preferred. The term notebook originally referred to a type of portable computer that was smaller and lighter than mainstream laptops of the time, but has since come to mean the same thing and no longer refers to any specific size.
+
+The terms laptop and notebook trace their origins to the early 1980s, coined to describe portable computers in a size class smaller than the mainstream units (so-called "luggables") but larger than pocket computers. The etymologist William Safire traced the origin of laptop to some time before 1984; the earliest attestation of laptop found by the Oxford English Dictionary dates to 1983. The word is modeled after the term desktop, as in desktop computer. Notebook, meanwhile, emerged earlier in 1982 to describe Epson's HX-20 portable, whose dimensions roughly correspond to a letter-sized pad of paper. Notebooks emerged as their own separate market from laptops with the release of the NEC UltraLite in 1988.
+
+Notebooks and laptops continued to occupy distinct market segments into the mid-1990s, but ergonomic considerations and customer preference for larger screens soon led to notebooks converging with laptops in the late 1990s. Now, the terms laptop and notebook are synonymous, with any preference between the two being a variation in dialect.
+## Types of laptops
+Since the 1970s introduction of portable computers, their forms have changed significantly, resulting in a variety of visually and technologically differing subclasses. Excepting distinct legal trademark around terms (notably Ultrabook), hard distinctions between these classes were rare, and their usage has varied over time and between sources. Since the late 2010s, more specific terms have become less commonly used, with sizes distinguished largely by the size of the screen.
+
+
+***Smaller and larger laptops*** 
+
+    Main articles: Notebook computer, Subnotebook, and Desktop replacement computer
+
+There were in the past a number of marketing categories for smaller and larger laptop computers; these included "notebook" and "subnotebook" models, low cost "netbooks", and "ultra-mobile PCs" where the size class overlapped with devices like smartphone and handheld tablets, and "Desktop replacement" laptops for machines notably larger and heavier than typical to operate more powerful processors or graphics hardware.[43] All of these terms have fallen out of favor as the size of mainstream laptops has gone down and their capabilities have gone up; except for niche models, laptop sizes tend to be distinguished by the size of the screen, and for more powerful models, by any specialized purpose the machine is intended for, such as a "gaming laptop" or a "mobile workstation" for professional use.
+
+    See also: Gaming computer § Gaming laptop computers, and Mobile workstation
+
+***Convertible, hybrid, 2-in-1***
+
+    Main article: 2-in-1 PC
+
+The latest trend of technological convergence in the portable computer industry spawned a broad range of devices, which combined features of several previously separate device types. The hybrids, convertibles, and 2-in-1s emerged as crossover devices, which share traits of both tablets and laptops. All such devices have a touchscreen display designed to allow users to work in a tablet mode, using either multi-touch gestures or a stylus/digital pen.
+
+Convertibles are devices with the ability to conceal a hardware keyboard. Keyboards on such devices can be flipped, rotated, or slid behind the back of the chassis, thus transforming from a laptop into a tablet. Hybrids have a keyboard detachment mechanism, and due to this feature, all critical components are situated in the part with the display. 2-in-1s can have a hybrid or a convertible form, often dubbed 2-in-1 detachable and 2-in-1 convertibles respectively, but are distinguished by the ability to run a desktop OS, such as Windows 10. 2-in-1s are often marketed as laptop replacement tablets. As with nearly all of these distinctions, they are marketing terms first and technical distinctions secondarily, and vendors are not consistent in using a single name for a given type of device.
+
+2-in-1s are often very thin, around 10 millimetres (0.39 in), and light devices with a long battery life. 2-in-1s are distinguished from mainstream tablets as they feature an x86-architecture CPU (typically a low- or ultra-low-voltage model), such as the Intel Core i5, run a full-featured desktop OS like Windows 10, and have a number of typical laptop I/O ports, such as USB 3 and Mini DisplayPort.
+
+2-in-1s are designed to be used not only as a media consumption device but also as valid desktop or laptop replacements, due to their ability to run desktop applications, such as Adobe Photoshop. It is possible to connect multiple peripheral devices, such as a mouse, keyboard, and several external displays to a modern 2-in-1.
+
+Microsoft Surface Pro-series devices and Surface Book are examples of modern 2-in-1 detachable, whereas Lenovo Yoga-series computers are a variant of 2-in-1 convertibles. While the older Surface RT and Surface 2 have the same chassis design as the Surface Pro, their use of ARM processors and Windows RT do not classify them as 2-in-1s, but as hybrid tablets.
+
+The distinction between a "tablet with a keyboard" and a 2-in-1 laptop generally rests on the operating system; if they run a mobile operating system, such as Android or IOS, they are generally marketed as tablets, while if they run a general purpose operating system like Windows or MacOS, they are generally marketed as laptops.
+
+***Rugged laptop***
+
+    Main article: Rugged computer
+
+A rugged laptop is designed to reliably operate in harsh usage conditions such as strong vibrations, extreme temperatures, and wet or dusty environments. Rugged laptops are bulkier, heavier, and much more expensive than regular laptops, and thus are seldom seen in regular consumer use.
+
+## Hardware
+    Further information: Personal computer and Computer hardware
+
+The basic components of laptops function identically to their desktop counterparts. Traditionally they were miniaturized and adapted to mobile use, The design restrictions on power, size, and cooling of laptops limit the maximum performance of laptop parts compared to that of desktop components, although that difference has increasingly narrowed.
+
+In general, laptop components are not intended to be replaceable or upgradable by the end-user, except for components that can be detached; in the past, batteries and optical drives were commonly exchangeable. In the past, many laptops featured socketed processors but as of 2025 virtually all laptops use processors that are soldered to the motherboard. Many laptops come with RAM that is soldered to the motherboard and cannot be easily replaced.
+
+This restriction is one of the major differences between laptops and desktop computers, because the large "tower" cases used in desktop computers are designed so that new motherboards, hard disks, sound cards, RAM, and other components can be added. Memory and storage can often be upgraded with some disassembly, but with the most compact laptops, there may be no upgradeable components at all.
+
+The following sections summarize the differences and distinguishing features of laptop components in comparison to desktop personal computer parts.
+
+***Display***
+The typical laptop has a screen in a clamshell form factor that when unfolded is upright to the user. Detachables typically use a kickstand to stay upright.
+
+**Screen technology**
+Laptop screens most commonly use liquid-crystal display (LCD) technology, although OLED panels are becoming increasingly popular. The display interfaces with the motherboard using the embedded DisplayPort protocol via the Low-voltage differential signaling (LVDS) 30 or 40 pin connector. Earlier laptops use the FPD-Link standard. The panels are mainly manufactured by AU Optronics, BOE Technology, LG Display or Samsung Display.
+
+**Surface finish**
+Externally, it can be a glossy or a matte (anti-glare) screen.
+
+**Sizes**
+In the past, there was a broader range of marketing terms (both formal and informal) to distinguish between different sizes of laptops. These included netbooks, subnotebooks, ultra-mobile PC, and desktop replacement computers; these are sometimes still used informally, although they are generally not used anymore in manufacturer marketing.
+
+As of 2021, mainstream consumer laptops tend to come with 11", 13", 14", 15" or 16" screens. Larger and smaller models are available, but less common – there is no clear dividing line in minimum or maximum size. Machines small enough to be handheld (screens in the 6–8" range) can be marketed either as very small laptops or "handheld PCs", while the distinction between the largest laptops and "All-in-One" desktops is whether they fold for travel.
+
+Resolution
+Having a higher resolution display allows more items to fit onscreen at a time, improving the user's ability to multitask, although, at the higher resolutions on smaller screens, the resolution may only serve to display sharper graphics and text rather than increasing the usable area. Since the introduction of the MacBook Pro with Retina display in 2012, there has been an increase in the availability of "HiDPI" (or high pixel density) displays; as of 2025, this is generally considered to be anything higher than 1920 pixels wide. On PC laptops, this is most often 4K (3840-pixel-wide) resolution, although QHD (2560-pixel-wide) resolution is also a common option, and non-standard display resolutions are becoming more frequent.
+
+External displays can be connected to most laptops, with most models supporting at least one.[51] The use of technology such as USB4 (section Alternate Mode partner specifications). DisplayPort Alt Mode has been utilized to charge a laptop and provide display output over one USB-C Cable.[52]
+
+Refresh rates
+Most laptop displays have a maximum refresh rate of 60 Hz. The Dell M17x and Samsung 700G7A, both released in 2011, were among the first laptops to feature a 120 Hz refresh rate,[53][54] and more such laptops have appeared in the years since; higher refresh rate is often a distinguishing characteristic of laptops sold for gaming.
+
+Central processing unit (CPU)
+Laptop CPUs have advanced power-saving features and produce less heat than those intended for desktop use. The number of processor cores has generally increased over time, and as of 2025, mainstream laptops can have as few as 6 cores and as many as 16, with high end workstation laptops having as many as 24, and a few low end or ultra-portable models still being available with 4 cores. In many cases, this involves a mix of power-optimized and performance-optimized processor cores.
+
+For the low price and mainstream performance, there is no longer a significant performance difference between laptop and desktop CPUs, but at the high end, the fastest desktop CPUs still substantially outperform the fastest laptop processors, at the expense of massively higher power consumption and heat generation. Laptop processors often have a very broad range in their peak power consumption vs. continuous – typically continuous power is around 15-20 watts on mainstream laptops, 45-60 watts on higher performance models, but these tend to be able to go much higher for short periods. By contrast, desktop processors tend to start at a 65W continuous rating with performance models in the 100-120W range being very common, and specialized "high end desktop" and workstation models in some cases exceeding 300W.[55]
+
+There has been a wide range of CPUs designed for laptops available; as of 2025, the market consists primarily of the X86 and ARM architectures. Major manufacturers include Intel, AMD, Apple and Qualcomm. In the past, the PowerPC architecture was also common on Apple laptops (iBook and PowerBook). Between around 2000 to 2014, most full-size laptops had socketed, replaceable CPUs; on thinner models, the CPU was soldered on the motherboard and was not replaceable or upgradable without replacing the motherboard. Since 2015, Intel has not offered new laptop CPU models with pins to be interchangeable, preferring ball grid array chip packages which have to be soldered, and as of 2025 this is true for mainstream laptops from all processor lines.[56]
+
+In the past, some laptops have used a desktop processor instead of the laptop version, which resulted in higher performance at the cost of much greater weight, heat, and limited battery life. Since around 2010, the practice has been restricted to small-volume gaming models. Laptop CPUs are rarely able to be overclocked.
+
+Graphics processing unit (GPU)
+On most laptops, the GPU is integrated into the CPU to conserve power and space. This was introduced by Intel with the Core i-series of mobile processors in 2010, followed by similar AMD APU processors in January 2011.
+
+Higher-end laptops intended for gaming or professional 3D work tend to come with dedicated graphics processors on the motherboard or as an internal expansion card. Since 2011, these almost always involve switchable graphics so that when there is no demand for the higher performance dedicated graphics processor, the more power-efficient integrated graphics processor will be used. Nvidia Optimus and AMD Hybrid Graphics are examples of this sort of system of switchable graphics. Before that, lower-end machines tended to use graphics processors integrated into the system chipset, while higher-end machines had a separate graphics processor.
+
+In the past, laptops lacking a separate graphics processor were limited in their utility for gaming and professional applications involving 3D graphics, but the capabilities of CPU-integrated graphics have converged with the low-end of dedicated graphics processors since the mid-2010s. For laptops possessing limited onboard graphics capability but sufficient I/O throughput, an external GPU (eGPU) can provide additional graphics power at the cost of physical space and portability.
+
+Traditionally, the system RAM on laptops (as well as on desktop computers) was physically separate from the graphics memory used by the GPU. Apple's M series SoCs feature a unified pool of memory for both the system and the GPU; this approach can produce substantial efficiency gains for some applications, while potentially limiting peak graphics performance for others.
+
+Memory
+As of 2025, whether laptops use removable memory or memory soldered to the motherboard is highly variable. When removable, most laptops use SO-DIMM slots in which RAM is mounted.[49] A new form factor, the CAMM module, is slated to fix the size and timing limitation. Before 2000, most laptops used proprietary memory modules if their memory was upgradable.
+
+In the early 2010s, high end laptops such as the 2011 Samsung 700G7A have passed the 10 GB RAM barrier, featuring 16 GB of RAM.[57]
+
+When upgradeable, memory slots are sometimes accessible from the bottom of the laptop for ease of upgrading; in other cases, accessing them requires significant disassembly. Most laptops have two memory slots, although some will have only one, either for cost savings or because some amount of memory is soldered. In the past, some high end engineering workstations and gaming laptops had four slots, although this is extremely rare in 2025 with engineering workstations converging on a single CAMM slot.
+
+As of 2025, 16 GB RAM is most common, with lower-end models occasionally having 8 GB, and 4 GB configurations being nearly unknown. Higher-end laptops may come with 64 GB of RAM or more.
+
+Internal storage
+As of 2025, virtually all laptops use NVME solid-state drives for storage, most usually in one or more M.2 slots on non-MacOS laptops. Macs have consistently used soldered NVME storage (integrated with the motherboard) since 2018, and non-removable SSDs are uncommon but not unknown on other manufacturers' laptops.
+
+The earliest laptops most often used floppy disks for storage, although a few used either RAM disk or tape. By the late 1980s hard disk drives had become the standard form of storage.
+
+Between 1990 and 2009, almost all laptops typically had a hard disk drive (HDD) for storage; since then, solid-state drives (SSD) have gradually come to replace hard drives in virtually all cases. Solid-state drives are faster and more power-efficient, as well as eliminating the hazard of damage or data corruption caused by a laptop's physical impacts, as they use no moving/mechanical parts.[58] In many cases, they are more compact as well. Initially, in the late 2000s, SSDs were substantially more expensive than HDDs, but prices converged for smaller drives in the late 2010s, and as of 2025, HDDs are essentially extinct in new laptops – although very large capacity drives remain common in desktops and used externally.
+
+Since around 1990, where a hard drive is present it will typically be a 2.5-inch drive; some very compact laptops support even smaller 1.8-inch HDDs, and a very small number used 1" Microdrives. Between their initial introduction around 2008 and the mid-2010s, most SSDs matched the size/shape of a laptop hard drive, but starting around 2014 they have been increasingly replaced with smaller mSATA or M.2 cards. SSDs intended for laptop use which are compatible with the newer and much faster NVM Express standard are only available as cards.
+
+As of 2025, very few laptops contain space for a 2.5" drive, accepting only M.2 cards; Macs and a few ultraportable non-Mac laptops have storage soldered to the motherboard. For those that can, they can typically contain a single 2.5-inch drive; in the past, some of the largest laptops could house two drives.
+
+A variety of external HDDs or NAS data storage servers with support of RAID technology can be attached to virtually any laptop over such interfaces as USB, FireWire, eSATA, or Thunderbolt, or over a wired or wireless network to further increase space for the storage of data. Laptops may also incorporate a SD or microSD card slot. This enables users to download digital pictures from an SD card onto a laptop, thus enabling them to delete the SD card's contents to free up space for taking new pictures.
+
+Removable media drive
+Optical disc drives capable of playing CD-ROMs, compact discs (CD), DVDs, and in some cases, Blu-ray discs (BD), were nearly universal on full-sized models between the mid-1990s and the early 2010s. As of 2025, drives are virtually unknown in new laptops, when needed they can be connected via USB instead.
+
+Speaker
+Laptops usually have built-in speakers and built-in microphones. However, integrated speakers may be small and of restricted sound quality to conserve space.
+
+## TOP THREE LAPTOP MANUFACTURERS
+
+* Apple
+* Dell
+* Lenovo
